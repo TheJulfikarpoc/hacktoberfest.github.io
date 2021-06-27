@@ -1,1 +1,1 @@
-Subdomain Takeover POC by thejulfikar
+Subdomain Takeover by thejulfikar
